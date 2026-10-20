@@ -21,6 +21,8 @@ _Laurynas_
 
 **Total time spent: 1h18m**
 
+**Total time spent: 1h 18m**
+
 # October 20, 2026: 20/10/20 Finished The Schematics
 <!-- fabricate:entry 771 -->
 
