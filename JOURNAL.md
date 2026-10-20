@@ -3,7 +3,7 @@ title: "Peli32"
 github: "https://github.com/LaurynasLubauskas/Peli32.git"
 description: "A custom esp32"
 created_at: "2026-10-18"
-total_time: "1h 18m"
+total_time: "2h 18m"
 ---
 
 # October 18, 2026: 18/10/2026 First Journal/The Start
@@ -17,6 +17,9 @@ From Fabricate I want to earn a 3d printer, so this wont be my only project that
 _Thanks for reading_
 _Laurynas_
 
+![](https://fabricate.hackclub-assets.com/88e00727694cd75ba1974a30809fde878c06ef674eaf965f58fd4f165b49955a/image-jpeg/Peli32%20Page%201.jpg)
+
+**Total time spent: 1h18m**
 
 # October 20, 2026: 20/10/20 Finished The Schematics
 <!-- fabricate:entry 771 -->
